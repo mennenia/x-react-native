@@ -46,7 +46,7 @@
   - y
 
 
-## Day 5 - Flexbox Layouts
+## Workshop 3.2 - Flexbox Layouts
 
 Speaker: orta + alloy
 - Folder: [`workshops/flexbox`](workshops/flexbox)
